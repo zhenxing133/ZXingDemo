@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_main_button.xml.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\drawable\\selector_main_button.xml"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_capture.xml.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_main_edit.xml.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\drawable\\shape_main_edit.xml"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_zxing.xml.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\layout\\main_zxing.xml"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_main_imageview.xml.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\drawable\\shape_main_imageview.xml"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_back_normal.png.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_back_normal.png"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_main_title.xml.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\drawable\\shape_main_title.xml"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_back_press.png.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\drawable-hdpi\\btn_back_press.png"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_light.png.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\drawable-hdpi\\scan_light.png"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_selector_capture_back.xml.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\drawable\\selector_capture_back.xml"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_main_button.xml.flat",
+        "source": "D:\\yuan\\code\\lytech\\ZXingDemo\\app\\src\\main\\res\\drawable\\shape_main_button.xml"
+    }
+]
